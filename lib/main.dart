@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [ChangeNotifierProvider(create: (_)=>HomePageModel())],
       child: const FluentApp(
+        debugShowCheckedModeBanner: false,
         title: '我的世界启动器',
         home:  HomePage(),
       ),

@@ -4,7 +4,7 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "\u6211\u7684\u4e16\u754c\u542f\u52a8\u5668")
+set(BINARY_NAME "mc_launcher")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
 set(APPLICATION_ID "cn.lacia.mc_launcher")
