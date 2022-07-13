@@ -4,7 +4,7 @@ project(mc_launcher LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "mc_launcher")
+set(BINARY_NAME "\u6211\u7684\u4e16\u754c\u542f\u52a8\u5668")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
