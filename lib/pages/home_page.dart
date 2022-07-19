@@ -10,6 +10,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(color: Colors.blue.shade100,child: Center(child: TextButton(onPressed: () {  },
+    child: Text('登陆'),),),);
   }
 }
