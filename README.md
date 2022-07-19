@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 ### api
 - [ ] login api
 - [ ] download api
-- [ ] jva api
+- [ ] java api
 
 ### package
 - [ ] provider
@@ -29,4 +29,21 @@ samples, guidance on mobile development, and a full API reference.
 - [ ] ui
 
 ### mc config
+- [ ] jdk
+
+ 读取 jdk 环境变量
+
+ 下载 jdk
+
+ 安装 jdk
+
+
 - [ ] game start
+
+游戏版本选择
+
+游戏下载，客户端，服务端
+
+游戏启动配置
+
+TODO 切换版本，切换账号，版本隔离，模组，世界，整合包，联机，三方登录，
